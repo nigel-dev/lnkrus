@@ -1,3 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<button class="btn btn-primary">Hello</button>
+<div class="mockup-window bg-base-300 border">
+  <div class="bg-base-300 flex justify-center px-4 py-16">
+    <button class="btn btn-primary">Hello</button>
+  </div>
+</div>
